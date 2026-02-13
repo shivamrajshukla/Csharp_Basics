@@ -1,0 +1,5 @@
+/workspaces/Csharp_Basics/obj/Debug/net10.0/Csharp_Basics.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp_Basics/obj/Debug/net10.0/Csharp_Basics.AssemblyInfoInputs.cache
+/workspaces/Csharp_Basics/obj/Debug/net10.0/Csharp_Basics.AssemblyInfo.cs
+/workspaces/Csharp_Basics/obj/Debug/net10.0/Csharp_Basics.csproj.CoreCompileInputs.cache
+/workspaces/Csharp_Basics/obj/Debug/net10.0/Csharp_Basics.sourcelink.json
