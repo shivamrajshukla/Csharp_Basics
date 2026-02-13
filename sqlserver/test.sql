@@ -1,0 +1,8 @@
+SELECT @@VERSION;
+
+CREATE DATABASE testdb;
+CREATE DATABASE SchoolDB;
+GO
+CREATE DATABASE EmployeeDB;
+SELECT * FROM sys.databases;
+
